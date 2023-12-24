@@ -1,0 +1,3 @@
+kikit panelize -p UPDI.json '../UPDI programmer.kicad_pcb' UPDI_programmer.kicad_pcb
+
+kikit fab jlcpcb --no-drc 'UPDI programmer.kicad_pcb' ./fab --nametemplate UPDI_programmer_{}

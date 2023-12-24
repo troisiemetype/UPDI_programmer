@@ -1,0 +1,55 @@
+{
+	"layout": {
+		"type": "grid",
+		"rows": 1,
+		"cols": 3,
+		"space": "3mm",
+//		"hspace": "5mm",
+//		"vspace": "5mm",
+		"rotation": "0deg",
+//		"alternation": "cols",
+//		"hbackbone": "6mm",
+		"renamenet": "Board_{n}-{orig}",
+		"renameref": "{orig}"
+	},
+	"source": {
+		"type": "auto",
+		"tolerance": "25mm"
+	},
+	"tabs": {
+		"type": "annotation",
+	},
+	"cuts": {
+		"type": "vcuts",
+		"clearance": "0.5mm",
+//		"layer": "User.1",
+	},
+
+	"framing": {
+		"type": "frame",
+		"width": "6mm",
+//		"cuts": "both",
+		"fillet": "3mm",
+//		"slotwidth": "5mm",
+	},
+	"tooling": {
+		"type": "4hole",
+		"hoffset": "3mm",
+		"voffset": "3mm",
+		"size": "2mm",
+		"paste": true,
+	},
+	"post": {
+		"type": "auto",
+		"millradius": "1mm",
+//		"copperfill": true,
+//		"origin": "bl",
+	},
+
+	"text": {
+		"type": "simple",
+		"text": "JLCJLCJLCJLC",
+		"anchor": "mb",
+		"voffset": "-3mm",
+	},
+}
