@@ -1,0 +1,14 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"USB_C_Receptacle_GCT_USB4085";1;"USB_C_Receptacle_USB2.0";;;
+2;"D1";"D_SOD-123";1;"D";;;
+3;"R3";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"1M";;;
+4;"C4,C1";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";2;"0.1u";;;
+5;"R4";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"1.5k";;;
+6;"R1,R2";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";2;"5.1k";;;
+7;"JP1";"SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm";1;"Jumper_2_Open";;;
+8;"F1";"Fuse_1206_3216Metric";1;"500m";;;
+9;"U2";"SOT-23";1;"MCP1700x-330xxTT";;;
+10;"SW1";"SW_CuK_OS102011MA1QN1_SPDT_Angled";1;"power";;;
+11;"C2,C3";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";2;"1u";;;
+12;"U1";"SOIC-16_3.9x9.9mm_P1.27mm";1;"CH340C";;;
+13;"J2";"Connector_pad_1x03_L10_P2.54mm";1;"Conn_01x03";;;
